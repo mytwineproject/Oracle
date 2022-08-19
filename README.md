@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta name="description" content="Learn how to create message variants." />
+        <meta name="keywords" content="create message variants, creating message variants, message, messages, variant, variants" />
     </head>
     <body>
         <h1>Creating message variants</h1>
